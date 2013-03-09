@@ -1,0 +1,24 @@
+{
+  "name": "colander",
+  "version": "0.0.1",
+  "description": "Simple rule-based filtering",
+  "main": "colander.js",
+  "dependencies": {
+    "json-transcriber": "~0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chesles/colander.git"
+  },
+  "keywords": [
+    "filtering",
+    "rules"
+  ],
+  "author": "John Chesley <john@chesl.es>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
